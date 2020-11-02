@@ -1,9 +1,8 @@
-# VirtualizedContactCards
+# School Search
 
-![ezgif-5-84fe5b780694](https://user-images.githubusercontent.com/15027672/96854518-3653ec00-1479-11eb-85a6-e65a37a964b1.gif)
+![ezgif-4-1091531c5826](https://user-images.githubusercontent.com/15027672/97930463-6791bd80-1d91-11eb-9776-4cb8a33381cb.gif)
 
-
-Utilizing https://randomuser.me/ API for Contacts and Displaying a Fluid UI with Infinite Scrolling & search fuctionalities.
+Static Data for  Schools and Displaying a Fluid UI with Filter & search fuctionalities.
 
 React-native Project
 
@@ -34,7 +33,7 @@ Fourth component is UI Screens/ Home / Error.js
 A Get Method to Access API's and get the Data back to Home/index.js
 
 
-Unit Tests are in _tests_ folder in root location.
+Unit Tests are missing
 
 
 Thank You.
